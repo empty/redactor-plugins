@@ -3,11 +3,11 @@
         "Michael Trier"
     ],
     "dependencies": {
-        "jquery": ">=1.6"
+        "jquery": ">=1.9.1"
     },
     "description": "Plugins for the Redactor WYSIWYG",
     "homepage": "https://github.com/empty/redactor-plugins",
-    "license": "Professional License",
+    "license": "MIT",
     "main": [
         "infogr-am.js"
     ],
