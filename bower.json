@@ -1,0 +1,17 @@
+{
+    "authors": [
+        "Michael Trier"
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    },
+    "description": "Plugins for the Redactor WYSIWYG",
+    "homepage": "https://github.com/empty/redactor-plugins",
+    "license": "Professional License",
+    "main": [
+        "infogr-am.js"
+    ],
+    "name": "redactor-plugins",
+    "private": true,
+    "version": "1.0"
+}
