@@ -18,7 +18,6 @@ $.Redactor.prototype.infogram = function()
         init: function ()
         {
             var button = this.button.add('infogram', 'Infogr.am');
-            this.button.setIcon('image', '<i class="fa fa-area-chart"></i>');
             this.button.addCallback(button, this.infogram.show);
         },
         show: function()
