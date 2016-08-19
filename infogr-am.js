@@ -1,6 +1,4 @@
-if (!RedactorPlugins) var RedactorPlugins = {};
-
-RedactorPlugins.infogram = function()
+$.Redactor.prototype.infogram = function()
 {
     return {
         getTemplate: function()
